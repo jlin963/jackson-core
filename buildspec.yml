@@ -16,6 +16,6 @@ phases:
 
 artifacts:
   files:
-    - target/jacksoncore-2.0.jar
+    - target/jackson-core-3.0.0-SNAPSHOT.bundle
     - '**/*.pdf'
   discard-paths: yes
